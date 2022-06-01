@@ -1,0 +1,8 @@
+2022-06-01T13:21:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social-share.php on line 9
+
+2022-06-01T13:28:38+00:00 CRITICAL syntax error, unexpected '5' (T_LNUMBER) in C:\wamp64\www\wordpress\wp-content\plugins\salim-form\main.php on line 129
+
+2022-06-01T13:28:45+00:00 CRITICAL syntax error, unexpected '5' (T_LNUMBER) in C:\wamp64\www\wordpress\wp-content\plugins\salim-form\main.php on line 129
+
+2022-06-01T13:28:45+00:00 CRITICAL syntax error, unexpected '5' (T_LNUMBER) in C:\wamp64\www\wordpress\wp-content\plugins\salim-form\main.php on line 129
+

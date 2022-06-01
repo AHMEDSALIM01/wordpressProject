@@ -1,0 +1,15 @@
+2022-05-26T10:25:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\class-wp-image-editor-gd.php on line 208
+
+2022-05-26T10:31:31+00:00 CRITICAL Uncaught Error: Call to a member function is_built_with_elementor() on bool in C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\app\modules\import-export\module.php:399
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\app\modules\import-export\module.php(373): Elementor\Core\App\Modules\ImportExport\Module->get_elementor_page_url('0')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\app\modules\import-export\module.php(425): Elementor\Core\App\Modules\ImportExport\Module->get_elementor_home_page_url()
+#2 C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\app\modules\import-export\module.php(63): Elementor\Core\App\Modules\ImportExport\Module->get_config_data()
+#3 C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\base\base-object.php(142): Elementor\Core\App\Modules\ImportExport\Module->get_init_settings()
+#4 C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\base\base-object.php(40): Elementor\Core\Base\Base_Object->ensure_settings()
+#5 C:\wa in C:\wamp64\www\wordpress\wp-content\plugins\elementor\core\app\modules\import-export\module.php on line 399
+
+2022-05-26T10:38:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\class-wp-image-editor-gd.php on line 208
+
+2022-05-26T10:41:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-includes\class-wp-image-editor.php on line 565
+
